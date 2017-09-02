@@ -69,7 +69,7 @@ Substance 常见元素:
 - Vector  定义矢量
 - Variables 定义变量
 - Samplers 转换灰度/颜色
-- Cast 转换常量
+- Cast 转换用
 - Operator 计算用
 - Logical 处理且或否
 - Comparison 处理Boolean
